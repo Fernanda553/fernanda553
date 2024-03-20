@@ -12,7 +12,9 @@
 - 📫 How to reach me: You can email me at fernanda.nunez55@gmail.com.
   
 - 😄 Skills:
+  
             Front-end: [HTML,CSS,JavaScript,TypeScript,Sass,Bootstrap,React]
+  
             Back-end: [Node.js,Express,PostgreSQL,JWT]
   
 - 🌍 You can find me :
