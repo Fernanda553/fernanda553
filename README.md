@@ -1,5 +1,5 @@
 ### Hi there 👋
-![programacion](https://github.com/Fernanda553/fernanda553/assets/121075297/4a0c211b-3678-48e5-9034-d01220e6f7f3)
+![18](https://github.com/Fernanda553/fernanda553/assets/121075297/bb0a30c0-5486-4243-86cc-b1f751511d44)
 
 <!--
 **Fernanda553/fernanda553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
