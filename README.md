@@ -4,12 +4,18 @@
  questions or would like to collaborate on something exciting! 🚀
 
 - 🔭 I’m currently working on typeScript and Docker!
+  
 - 🌱 I’m currently learning new techniques for code optimization and user interface design.
+  
 - 👯 I’m looking to collaborate on  on projects involving the implementation of innovative and creative solutions.
+  
 - 📫 How to reach me: You can email me at fernanda.nunez55@gmail.com.
+  
 - 😄 Skills:
             Front-end: [HTML,CSS,JavaScript,TypeScript,Sass,Bootstrap,React]
             Back-end: [Node.js,Express,PostgreSQL,JWT]
+  
 - 🌍 You can find me :
+  
 - [LinkedIn](https://www.linkedin.com/in/fernandanunezespinoza/)
 
