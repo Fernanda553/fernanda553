@@ -12,9 +12,10 @@ Soy Fernanda Núñez, Desarrolladora Full Stack, y estoy encantada de darte la b
 
 😄 Habilidades:
 
-Front-end: [HTML, CSS, JavaScript, TypeScript, Sass, Bootstrap, React]
 
-Back-end: [Node.js, Express, PostgreSQL, JWT]
+     Front-end: [HTML, CSS, JavaScript, TypeScript, Sass, Bootstrap, React]
+
+     Back-end: [Node.js, Express, PostgreSQL, JWT]
 
 🌍 Puedes encontrarme en:
 
