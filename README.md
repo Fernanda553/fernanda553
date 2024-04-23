@@ -8,7 +8,7 @@ Soy Fernanda Núñez, Desarrolladora Full Stack, y estoy encantada de darte la b
 
 👯 Busco colaborar en proyectos que impliquen la implementación de soluciones innovadoras y creativas.
 
-📫 Puedes contactarme por correo electrónico en fernanda.nunez55@gmail.com.
+📫 Puedes contactarme por correo electrónico en:  fernanda.nunez55@gmail.com.
 
 😄 Habilidades:
 
