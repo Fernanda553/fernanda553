@@ -41,6 +41,12 @@ Soy Fernanda Nuñez, Desarrolladora Full Stack y estoy encantada de darte la bie
 
 🌍 Puedes encontrarme en:
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernandanunezespinoza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
  [LinkedIn]("https://www.linkedin.com/in/fernandanunezespinoza/")
 
  ![18](https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg)
