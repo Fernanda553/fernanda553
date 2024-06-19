@@ -10,6 +10,7 @@ Soy Fernanda Nuñez, Desarrolladora Full Stack y estoy encantada de darte la bie
 📫 Puedes contactarme por correo electrónico en:  fernanda.nunez55@gmail.com
 
 😄 Habilidades:
+
 <div align="left">
   <!-- Front-end Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -40,7 +41,13 @@ Soy Fernanda Nuñez, Desarrolladora Full Stack y estoy encantada de darte la bie
 
 🌍 Puedes encontrarme en:
 
- [LinkedIn](https://www.linkedin.com/in/fernandanunezespinoza/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernandanunezespinoza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/fernandanunezespinoza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+ [LinkedIn]()
 
  ![18](https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg)
 
