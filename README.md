@@ -52,6 +52,8 @@ Soy Fernanda Nuñez, Desarrolladora Full Stack y estoy encantada de darte la bie
 </div>
 
 
+
+
  ![18](https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg)
 
 
