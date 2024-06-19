@@ -41,6 +41,7 @@ Soy Fernanda Nuñez, Desarrolladora Full Stack y estoy encantada de darte la bie
 
 🌍 Puedes encontrarme en:
 
+ <div align="left">
   <a href="https://www.linkedin.com/in/fernandanunezespinoza/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
